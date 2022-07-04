@@ -1,0 +1,23 @@
+
+
+body{
+   background-color:  #EBEBEB;
+}
+
+header{
+    background-color: #FFF159;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+
+main article{
+    border: outset;
+
+}
+
+footer{
+    background-color: #FFFFFF;
+}
